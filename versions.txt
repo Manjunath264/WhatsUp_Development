@@ -2,3 +2,4 @@ cucumberjava-1.2.5
 cucumberjunit-1.2.5
 seleniumjava-3.11.0
 httpcore-4.3.3
+jenkins 7.8.5
